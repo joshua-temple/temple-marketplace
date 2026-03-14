@@ -12,7 +12,7 @@
     {
       "name": "autopilot",
       "description": "Autonomous goal-driven task execution with heartbeat safety net, subagent delegation, and pause/resume lifecycle management",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "source": {
         "source": "url",
         "url": "https://github.com/joshua-temple/autopilot.git"
