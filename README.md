@@ -1,4 +1,4 @@
-# Claude Marketplace
+# Temple Marketplace
 
 Claude Code plugin marketplace by Joshua Temple.
 
@@ -19,7 +19,7 @@ Add this marketplace to Claude Code:
 Then install any plugin:
 
 ```
-/plugin install autopilot@claude-marketplace
+/plugin install autopilot@temple-marketplace
 ```
 
 ## Adding Plugins
