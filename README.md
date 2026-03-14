@@ -13,13 +13,13 @@ Claude Code plugin marketplace by Joshua Temple.
 Add this marketplace to Claude Code:
 
 ```
-/install-marketplace https://github.com/joshua-temple/claude-marketplace
+/plugin marketplace add joshua-temple/claude-marketplace
 ```
 
 Then install any plugin:
 
 ```
-/plugin autopilot
+/plugin install autopilot
 ```
 
 ## Adding Plugins
